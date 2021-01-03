@@ -10,7 +10,7 @@ docker image build -t [imagename]:[tag]
 example:
 
 ```markdown
-docker image build -t `myimage:1.0`
+docker image build -t `myimage`:`1.0`
 ```
 
 ### SHARE
