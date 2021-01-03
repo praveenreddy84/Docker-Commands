@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Docker Commands
 
 You can use the [editor on GitHub](https://github.com/praveenreddy84/Docker-Commands/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
