@@ -6,12 +6,12 @@ While exploring Docker a a bigginer had to run many commands, Here is where i ha
 Use the Dockerfile to build an image form the current directory and tag the image
 ```markdown
 docker image build -t [imagename]:[tag]
-
+```
 example:
 
 ```markdown
 docker image build -t myimage:1.0
-
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
