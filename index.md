@@ -2,7 +2,7 @@
 
 While exploring Docker a a bigginer had to run many commands, Here is where i had to note them all. If you have anything to please update this page. 
 
-### BUILD
+### BUILD :building_construction:
 Use the Dockerfile to build an image form the current directory and tag the image
 ```markdown
 docker image build -t [imagename]:[tag]
@@ -15,7 +15,7 @@ docker image build -t `myimage:1.0`
 
 ### SHARE
 
-### RUN
+### RUN :white_check_mark:
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
